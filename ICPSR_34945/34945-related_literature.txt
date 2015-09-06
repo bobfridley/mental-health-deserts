@@ -1,0 +1,77 @@
+Bibliography
+National Mental Health Services Survey (N-MHSS), 2010
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 34945. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. This list represents all items known
+to ICPSR as of 2015-07-12.
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+bibliography@icpsr.umich.edu.
+
+
+1. Baker, Joseph; Gentile, Claudia; Markesich,  Jason; Marsh, Shawn;
+Weiner, Rebecca, "Ensuring Data Quality: Monitoring Accuracy and
+Consistency Among Telephone Interview Monitors." Presented at the 66th
+Annual Conference of the American Association for Public Opinion Research,
+American Association for Public Opinion Research, Phoenix, AZ, May 2011.
+Full text PDF: http://www.amstat.org/sections/srms/proceedings/y2011/Files/400187.pdf
+
+2. Center for Behavioral Health Statistics and Quality, "Highlights of the
+National Mental Health Services Survey, 2010." N-MHSS Report. Rockville,
+MD: Substance Abuse and Mental Health Services Administration, Aug 7, 2014.
+Full text: http://www.samhsa.gov/data/sites/default/files/NMHSS-SR191-2010Highlights2014/NMHSS-SR191-2010Highlights2014.htm
+Full text PDF: http://www.samhsa.gov/data/sites/default/files/NMHSS-SR191-2010Highlights2014/NMHSS-SR191-2010Highlights2014.pdf
+
+3. Center for Behavioral Health Statistics and Quality, "Introduction to
+the National Mental Health Services Survey, 2010." N-MHSS Report.
+Rockville, MD: Substance Abuse and Mental Health Services Administration,
+Jul 29, 2014.
+Full text: http://samhsa.gov/data/2K14/NMHSS178/sr178-nmhss-introduction-2014.htm
+Full text PDF: http://samhsa.gov/data/2K14/NMHSS178/sr178-nmhss-introduction-2014.pdf
+
+4. Center for Behavioral Health Statistics and Quality, "More than Half of
+Mental Health Facilities Offer
+Suicide Prevention Services." N-MHSS Report. Rockville, MD: Substance Abuse
+and Mental Health Services Administration, Sep 8, 2014.
+Full text: http://www.samhsa.gov/data/sites/default/files/N-MHSS-Spot152-SuicidePrev2014/N-MHSS-Spot152-SuicidePrev2014.htm
+Full text PDF: http://www.samhsa.gov/data/sites/default/files/N-MHSS-Spot152-SuicidePrev2014/N-MHSS-Spot152-SuicidePrev2014.pdf
+
+5. Green-Hennessy, Sharon; Hennessy, Kevin D., "Predictors of seclusion or
+restraint use within residential treatment centers for children and
+adolescents." Psychiatric Quarterly. 2015,. DOI: 10.1007/s11126-015-9352-8
+Full text: http://www.samhsa.gov/data/sites/default/files/N-MHSS-Spot152-SuicidePrev2014/N-MHSS-Spot152-SuicidePrev2014.htm
+Full text PDF: http://www.samhsa.gov/data/sites/default/files/N-MHSS-Spot152-SuicidePrev2014/N-MHSS-Spot152-SuicidePrev2014.pdf
+
+6. Salvucci, Sameena Maryam; Grau, Eric, "Exploring Nonresponse Bias in a
+National Health Expenditures Survey of Institutions." Presented at the 2011
+Joint Statistical Meeting, Miami Beach, FL, Jul-Aug 2011.
+Abstract: http://www.amstat.org/meetings/jsm/2011/onlineprogram/AbstractDetails.cfm?abstractid=303109
+
+7. Substance Abuse and Mental Health Services Administration, "About 1 in 4
+Mental Health Treatment Facilities Offered Services to Quit Smoking." N-
+MHSS Report. Rockville, MD: Substance Abuse and Mental Health Services
+Administration, Nov 25, 2014.
+Full text: http://www.samhsa.gov/data/sites/default/files/Spot148_NMHSS_Smoking_Cessation/NMHSS-Spot148-QuitSmoking-2014.htm
+
+Full text PDF: http://www.samhsa.gov/data/sites/default/files/Spot148_NMHSS_Smoking_Cessation/NMHSS-Spot148-QuitSmoking-2014.pdf
+
+8. Substance Abuse and Mental Health Services Administration, "National
+Mental Health Services Survey (N-MHSS) Supporting Statement." Washington,
+DC: Office of Management and Budget, Office of Information and Regulatory
+Affairs, 2011..
+Full text: http://www.samhsa.gov/data/sites/default/files/Spot148_NMHSS_Smoking_Cessation/NMHSS-Spot148-QuitSmoking-2014.htm
+
+Full text PDF: http://www.samhsa.gov/data/sites/default/files/Spot148_NMHSS_Smoking_Cessation/NMHSS-Spot148-QuitSmoking-2014.pdf
+
+9. Substance Abuse and Mental Health Services Administration, "National
+Mental Health Services Survey (N-MHSS): 2010. Data on Mental Health
+Treatment Facilities." (SMA) 14-4837, Rockville, MD: Substance Abuse and
+Mental Health Services Administration, 2014.
+Full text PDF: http://www.samhsa.gov/data/DASIS/NMHSS2010_Web.pdf
+
+10. Whaley, James, "Aging and Disability in America [blog]." Updated Jul 6,
+2009,.
+Full text: http://agenamerica.blogspot.com/2009/07/2010-national-mental-health-services.html

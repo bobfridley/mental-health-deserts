@@ -1,0 +1,61 @@
+File Manifest for ICPSR 34945
+
+United States Department of Health and Human Services. Substance Abuse and
+Mental Health Services Administration. Center for Behavioral Health
+Statistics and Quality. National Mental Health Services Survey (N-MHSS),
+2010. ICPSR34945-v2. Ann Arbor, MI: Inter-university Consortium for
+Political and Social Research[distributor], 2014-04-03.
+http://doi.org/10.3886/ICPSR34945.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34945-related_literature.txt        -       -         -       2015-07-11  -
+
+    34945-manifest.txt                  -       -         -       2015-07-12  -
+
+
+DS0001 National Mental Health Services Survey (N-MHSS), 2010
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34945-0001-Codebook.pdf             -       -         -       2014-04-03  a70c72fe750eb4cf7c70b8efb008fdcd
+
+    34945-0001-Data.dta                 -       10,374    237     2014-07-17  2eeca5d0d2ecc449f5f113c203e1bc48
+
+    34945-0001-Data.rda                 -       10,374    237     2014-04-03  67513f67a1028bedbb58a7bab6a75bb7
+
+    34945-0001-Data.sav                 -       10,374    237     2014-04-03  1b82f32b9b259962f46857cb596066f8
+
+    34945-0001-Data.stc                 -       10,374    237     2014-04-03  e3057d690dd76dcfec568b4252886119
+
+    34945-0001-Data.tsv                 -       10,374    237     2014-04-03  f525b0d5571e06da60167718f9f22d84
+
+    34945-0001-Data.txt                 945     10,374    237     2014-04-03  3f2af5f7566c3d55664044a30ce100d9
+
+    34945-0001-Questionnaire.pdf        -       -         -       2014-04-03  3c44505f3cc54c4650fd03d14fccb7e4
+
+    34945-0001-Setup.dct                -       -         -       2014-04-03  4c7bb203e6f672a8e120606c4bd0579f
+
+    34945-0001-Setup.do                 -       -         -       2014-04-03  070f5d049fb18db3f9c6c4aec89f4bd5
+
+    34945-0001-Setup.sas                -       -         -       2014-04-03  a19b31d4f0ccdb4f7aa0ed901ff58de0
+
+    34945-0001-Setup.sps                -       -         -       2014-04-03  2e09e76e50867ee67fbf421c7bd4e13a
+
+    34945-0001-Supplemental_syntax.do   -       -         -       2014-07-17  48e998ba506c836052af3cebe4c55b0d
+
+    34945-0001-Supplemental_syntax.sas  -       -         -       2014-04-03  4998977341a2030b45b05e273cba832b
+
+
+Version History
+
+2014-07-17 Changed the Stata system data file from version 13 to version 12
+for compatibility on a wider range of systems.  2014-04-03 Data were
+updated to remove errant value labels in the state (STFIPS) variable.
